@@ -20,7 +20,7 @@ import static com.hmdp.utils.RedisConstants.SHOP_LIST;
  *  服务实现类
  * </p>
  *
- * @author 虎哥
+ * @author 罗蓉鑫
  * @since 2021-12-22
  */
 @Service
